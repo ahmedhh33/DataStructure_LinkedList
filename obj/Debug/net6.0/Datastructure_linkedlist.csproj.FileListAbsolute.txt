@@ -1,0 +1,15 @@
+C:\Users\TRA\Desktop\TRA-Code\Datastructure_linkedlist\bin\Debug\net6.0\Datastructure_linkedlist.exe
+C:\Users\TRA\Desktop\TRA-Code\Datastructure_linkedlist\bin\Debug\net6.0\Datastructure_linkedlist.deps.json
+C:\Users\TRA\Desktop\TRA-Code\Datastructure_linkedlist\bin\Debug\net6.0\Datastructure_linkedlist.runtimeconfig.json
+C:\Users\TRA\Desktop\TRA-Code\Datastructure_linkedlist\bin\Debug\net6.0\Datastructure_linkedlist.dll
+C:\Users\TRA\Desktop\TRA-Code\Datastructure_linkedlist\bin\Debug\net6.0\Datastructure_linkedlist.pdb
+C:\Users\TRA\Desktop\TRA-Code\Datastructure_linkedlist\obj\Debug\net6.0\Datastructure_linkedlist.csproj.AssemblyReference.cache
+C:\Users\TRA\Desktop\TRA-Code\Datastructure_linkedlist\obj\Debug\net6.0\Datastructure_linkedlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\Desktop\TRA-Code\Datastructure_linkedlist\obj\Debug\net6.0\Datastructure_linkedlist.AssemblyInfoInputs.cache
+C:\Users\TRA\Desktop\TRA-Code\Datastructure_linkedlist\obj\Debug\net6.0\Datastructure_linkedlist.AssemblyInfo.cs
+C:\Users\TRA\Desktop\TRA-Code\Datastructure_linkedlist\obj\Debug\net6.0\Datastructure_linkedlist.csproj.CoreCompileInputs.cache
+C:\Users\TRA\Desktop\TRA-Code\Datastructure_linkedlist\obj\Debug\net6.0\Datastructure_linkedlist.dll
+C:\Users\TRA\Desktop\TRA-Code\Datastructure_linkedlist\obj\Debug\net6.0\refint\Datastructure_linkedlist.dll
+C:\Users\TRA\Desktop\TRA-Code\Datastructure_linkedlist\obj\Debug\net6.0\Datastructure_linkedlist.pdb
+C:\Users\TRA\Desktop\TRA-Code\Datastructure_linkedlist\obj\Debug\net6.0\Datastructure_linkedlist.genruntimeconfig.cache
+C:\Users\TRA\Desktop\TRA-Code\Datastructure_linkedlist\obj\Debug\net6.0\ref\Datastructure_linkedlist.dll
