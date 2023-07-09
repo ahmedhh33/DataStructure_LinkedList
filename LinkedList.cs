@@ -9,7 +9,7 @@ namespace Datastructure_linkedlist
     internal class LinkedList
     {
         private Node head;
-        public LinkedList() 
+        public LinkedList()
         {
             head = null;
         }
@@ -33,7 +33,7 @@ namespace Datastructure_linkedlist
                 currentNode.next = newNode;
             }
         }
-        public void display() 
+        public void display()
         {
             Node node = head;
             while (node != null)
@@ -42,5 +42,46 @@ namespace Datastructure_linkedlist
                 node = node.next;
             }
         }
+        public void delete(int data)
+        {
+            if (head == null)
+            {
+                //1. Data is null
+                Console.WriteLine("LinkedList is Empty");
+                return;
+            }
+            //2. data is not null
+            else
+            {
+
+
+                // a delet head
+                if (head.data == data)
+                {
+                    head = head.next;
+                }
+                else
+                {
+                    Node currentNode = head;
+                    Node prevNode = null;
+                    while (currentNode != null && currentNode.data != data)
+                    {
+                        prevNode = currentNode;
+                        currentNode = currentNode.next;
+                    }
+                    if (currentNode == null)
+                    {
+                        Console.WriteLine("Data is not found in linkedlist ");
+                        return;
+                    }
+                    prevNode.next = currentNode.next;
+
+                }
+            }
+        }
     }
 }
+
+
+          
+
